@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <!--
 Copyright 2014 Git.Training
-Adding changes before rebasing conflicts.
+Adding changes before rebasing conflicts. Adding some more changes, because I can
 -->
 <head>
-	<title>Updating Title for Stash Branch Example</title>
+	<title>A Very Respectful Website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,11 +18,15 @@ Adding changes before rebasing conflicts.
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content. Just adding some other stuff too. Some more content, if you will. More content
+<<<<<<< 8e25d16f5952814585f0966532ce76867adddc33
+			Just some content. Just adding some other stuff too. Some more content, if you will.
+=======
+			Just nothing but trouble
+>>>>>>> fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git.Training. 2014 All Rights Reserved</p>
+		<p>&copy; Someonenamedjason 2014</p>
 	</footer>
 </body>
 </html>
