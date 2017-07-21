@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Adding some text, then m
 
 ##Introduction
 
-This example is to show different parts of the Git repository and various commands using a web project.
+This example is to show different parts of the Git repository and various commands using a web project. Updating something
 
 ##Purpose
 
